@@ -1,0 +1,10 @@
+USUÁRIO: aaa
+
+SENHA: 0000
+
+("jdbc:mysql://localhost:3306/bd_empresa", "root", "admin");
+
+ROOT = localhost:3306
+SENHA = admin
+
+Apache NetBeans IDE 17
